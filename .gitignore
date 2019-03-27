@@ -61,4 +61,4 @@ typings/
 .next
 
 #File fo deployment
-dis/
+dist/
